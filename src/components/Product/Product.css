@@ -291,6 +291,15 @@ button {
     width: 60%;
 }
 
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+input[type=number] {
+   -moz-appearance: textfield;
+   appearance: textfield;
+}
+
 .shipping button {
     border: none;
     padding: 4px;
