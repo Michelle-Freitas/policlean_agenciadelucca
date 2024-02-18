@@ -203,16 +203,19 @@ footer a:hover {
         align-items: flex-start;
     }
 
-    .title {
+    .title, .address {
         text-align: start;
     }
+
     .list {
         width: 80%;
     }
+
     .security-list {
         flex-wrap: nowrap;
 
     }
+
     .security-item {
         display: flex;
         align-items: center;
