@@ -1,0 +1,108 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "infos": {
+                "name": "Super Pós Obra 5L - Remove sujidades",
+                "ref": "14543183",
+                "avaliations": 45,
+                "price": 75,
+                "installments_price": 7.19,
+                "gallery": [
+                    "src/assets/gallery/product.png",
+                    "src/assets/gallery/about.png",
+                    "src/assets/gallery/usage.png",
+                    "src/assets/gallery/reputation.png",
+                    "src/assets/gallery/delivery.png",
+                    "src/assets/gallery/product.png",
+                    "src/assets/gallery/about.png",
+                    "src/assets/gallery/usage.png"
+                ],
+                "about_image": "*Valor por litro diluído considerando diluição para limpeza leve",
+                "stamps": [
+                    "src/assets/selo_50_litros.png",
+                    "src/assets/selo_preço_litro.png"
+                ]
+            },
+
+            "about": {
+                "bg_image":"src/assets/77578021_l.png",
+                "product_image":"src/assets/mockup-com-capa.png",
+                "product_alt":"Produto Super Pós Obra vestindo uma capa vermelha",
+                "what_is_it": {
+                    "title": "O que é?",
+                    "content":[
+                        "Detergente desincrustante pós obra.",
+                        "Indicado para limpeza pesada das sujidades do pós-obra, principalmente de resíduos como: excesso de rejunte, argamassa, cimento, gesso, terra e respingos de tinta*."
+                    ],
+                    "alert": "*Somente respingos recentes de tintas à base de água"
+                },
+                "indication_use": {
+                    "title": "Indicações de uso",
+                    "content": "Ideal para uso em superfícies laváveis e em pisos de porcelanato, cerâmicos, cotto/lajotas, cimentícios, granito, granilite, pastilhas, azulejos, antiderrapantes e pedras porosas, equipamentos como betoneiras e também materiais usados em uma reforma ou construção."
+                },
+                "where_use": {
+                    "title": "Tipos de superfícies que podem ser tratadas:" ,
+                    "content": "Devido a versatilidade do produto, ele pode ser utilizado em todo tipo de piso lavável. Para pisos que possuem acabamento com brilho, o ideal é utilizar a diluição de limpeza leve e aplicar em pequenas partes por vez, para que o produto não seque sobre o piso."
+                },
+                "principals_benefits": [
+                    {"id": 1, "icon": "https://images.tcdn.com.br/img/editor/up/770338/iconpos01.png", "content": "EFICAZ NA LIMPEZA DE PISOS CERÂMICOS, PEDRAS E PORCELANATOS"},
+                    {"id": 2, "icon": "https://images.tcdn.com.br/img/editor/up/770338/iconpos02.png", "content": "REMOVE RESÍDUOS DEIXADOS AO TÉRMINO DA OBRA"},
+                    {"id": 3, "icon": "https://images.tcdn.com.br/img/editor/up/770338/iconpos03.png", "content": "5 LITROS (CONCENTRADO) RENDE ATÉ 50 LITROS"}
+                ],
+                "all_benefits": [
+                    "Remove os resíduos de obra com eficácia e sem agredir as superfícies;",
+                    "Ideal em ambientes com excesso de concreto, cimento, reboco, argamassa, cal, rejuntes, gesso e terra em obras;",
+                    "Remove respingos de tintas de base água recentes em pisos não porosos;",
+                    "Muito versátil: ótimo para quem presta serviços (uso profissional). Excelente para residências (uso doméstico);",
+                    "Acabamento perfeito para sua obra."
+                ],
+                "use_mode": [
+                    "Diluir de acordo com o grau de sujidade. Não recomendamos a utilização do produto puro",
+                    "Espalhar o produto e esfregar com o auxílio de uma vassoura",
+                    "Deixar agir de 5 a 10 minutos tomando cuidado para não secar o produto",
+                    "Enxaguar com água em abundância até retirar todo o produto",
+                    "Repetir a operação se necessário"
+                ],
+                "dilution_proportion": [
+                    {"title":"LIMPEZA PESADA ATÉ", "water": "04", "proportion": "250ml/L", "img": "src/assets/dilution/heavy.png", "alt": "Imagem de balde com pouco do produto, e outro balde com uma proporção pesadatitle"},
+                    {"title": "LIMPEZA MÉDIA ATÉ", "water": "06", "proportion": "166ml/L", "img": "src/assets/dilution/medium.png", "alt": "Imagem de balde com pouco do produto, e outro balde com uma proporção média"},
+                    {"title":"LIMPEZA LEVE ATÉ", "water": "10", "proportion": "100ml/L", "img": "src/assets/dilution/light.png", "alt": "Imagem de balde com pouco do produto, e outro balde com uma proporção leve"}
+                ],
+                "description": [
+                    "Embalagem: 1 garrafão de 5 litros",
+                    "Produto concentrado: 1 litro rende até 10 litros",
+                    "Produto registrado na ANVISA"
+                ],
+                "precautions": {
+                    "image": "src/assets/luva.png",
+                    "alt": "imagem de mãos usando luvas azuis",
+                    "safety": "Para sua segurança, é necessário o uso de EPI's para manusear o produto. Por se tratar de um produto à base de ácido, recomendamos uso de luvas de proteção, botas ou sapatos fechados, óculos e máscara. Lave as mãos cuidadosamente após o manuseio. Em caso de contato com a pele ou olhos lave cuidadosamente com água corrente durante vários minutos.",
+                    "icons": [
+                        "https://images.tcdn.com.br/img/editor/up/770338/iconepi01.png",
+                        "https://images.tcdn.com.br/img/editor/up/770338/iconepi02.png",
+                        "https://images.tcdn.com.br/img/editor/up/770338/iconepi03.png",
+                        "https://images.tcdn.com.br/img/editor/up/770338/iconepi04.png"
+                    ],
+                    "conservation": "Conserve o produto fora do alcance de crianças e animais domésticos. Produto não testado em animais."
+                }
+            },
+            "seller": {
+                "company_name": "Policlean Oirad",
+                "logo": "https://images.tcdn.com.br/files/770338/themes/145/img/logo-policlean-full.svg?f0b2c5e258443d6521fe8782d2659697",
+                "slogan": "Fácil assim, limpeza é Policlean.",
+                "company_seal": "https://images.tcdn.com.br/img/editor/up/770338/selobrasileira.png",
+                "alt": "Empresa 100% brasileira, desde 1965",
+                "about": [
+                    "Somos uma empresa 100% brasileira, de fabricação própria. Iniciamos nossas atividades em 1965, ainda com o nome Oirad®, produzindo basicamente produtos domissanitários.",
+                    "Impulsionados pela busca permanente de inovação e evolução tecnológica, a linha de produção da Policlean foi sendo gradativamente ampliada para atender às necessidades de nossos clientes, contendo 7 categorias: Automotivo, Profissional, Lavanderia, Limpeza Geral, Piscinas e Tratamento de Pisos.",
+                    "Nossa unidade fabril, localizada em Campinas (SP), opera de acordo com as Boas Práticas de Fabricação, onde dispomos de dois mil e quinhentos m² de área instalada, para podermos oferecer um portfólio com mais de 120 itens.",
+                    "Todos os nossos produtos seguem o mais alto controle de qualidade desde sua produção até a entrega, atendendo não apenas às exigências dos órgãos controladores, mas principalmente àquele que é nosso principal agente fiscalizador: você."
+                ]
+
+            }
+
+        }
+    ]
+}
+

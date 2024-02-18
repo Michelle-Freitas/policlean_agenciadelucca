@@ -1,0 +1,107 @@
+#seller {
+    background-color: var(--principal-color);
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 4px;
+}
+
+.company-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.company-container img {
+    max-width: 50%;
+}
+
+.seller-h2 {
+    color: #fff;
+    text-align: center;
+    padding: 8px;
+}
+
+.company p {
+    color: #fff;
+    text-align: justify;
+    padding: 8px;
+    font-size: 1rem;
+}
+
+.sugestion-product-container {
+    background-color: var(--principal-color);
+    padding: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.sugestion-product-container div {
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.sugestion-product-container h2 {
+    color: var(--principal-color);
+    text-align: center;
+    padding: 8px;
+}
+
+.sugestion-product-container p {
+    color: var(--principal-color);
+    text-align: justify;
+    padding: 16px;
+    font-size: 0.8rem;
+}
+
+@media screen and (min-width: 768px){
+  #seller div {
+    padding: 4%;
+  }
+}
+
+@media screen and (min-width: 992px) { /*desktop*/
+    .company-container {
+        flex-direction: row;
+        justify-content: center;
+        justify-content: space-evenly;
+    }
+    .company-container img {
+        width: 30%;
+        max-width: 350px;
+    }
+    .company {
+        width: 800px;
+    }
+    #seller .company p {
+        font-size: 1rem;
+
+    }
+    .sugestion-product-container {
+        background-image: url('../../assets/185513521_l.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: var(--bg-images-height);
+        padding: 24px;
+    }
+    .sugestion-product-container div {
+        width: 40%;
+        max-width: 600px;
+        border-radius: 4px;
+        max-height: 450px;
+        padding: 16px;
+    }
+}
+
+@media screen and (min-width: 1500px) { /*telas grandes*/
+    #seller div {
+        padding: 18px;
+    }
+    #seller .company-container {
+        width: 1500px;
+        padding: 1%;
+    }
+    #seller .company p {
+        width: 700px;
+    }
+}
