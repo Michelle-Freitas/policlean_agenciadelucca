@@ -9,25 +9,25 @@
                 "price": 75,
                 "installments_price": 7.19,
                 "gallery": [
-                    "public/assets/gallery/product.png",
-                    "public/assets/gallery/about.png",
-                    "public/assets/gallery/usage.png",
-                    "public/assets/gallery/reputation.png",
-                    "public/assets/gallery/delivery.png",
-                    "public/assets/gallery/product.png",
-                    "public/assets/gallery/about.png",
-                    "public/assets/gallery/usage.png"
+                    "./assets/gallery/product.png",
+                    "./assets/gallery/about.png",
+                    "./assets/gallery/usage.png",
+                    "./assets/gallery/reputation.png",
+                    "./assets/gallery/delivery.png",
+                    "./assets/gallery/product.png",
+                    "./assets/gallery/about.png",
+                    "./assets/gallery/usage.png"
                 ],
                 "about_image": "*Valor por litro diluído considerando diluição para limpeza leve",
                 "stamps": [
-                    "public/assets/selo_50_litros.png",
-                    "public/assets/selo_preço_litro.png"
+                    "./assets/selo_50_litros.png",
+                    "./assets/selo_preço_litro.png"
                 ]
             },
 
             "about": {
                 "bg_image":"src/assets/77578021_l.png",
-                "product_image":"public/assets/mockup-com-capa.png",
+                "product_image":"./assets/mockup-com-capa.png",
                 "product_alt":"Produto Super Pós Obra vestindo uma capa vermelha",
                 "what_is_it": {
                     "title": "O que é?",
@@ -65,9 +65,9 @@
                     "Repetir a operação se necessário"
                 ],
                 "dilution_proportion": [
-                    {"title":"LIMPEZA PESADA ATÉ", "water": "04", "proportion": "250ml/L", "img": "public/assets/dilution/heavy.png", "alt": "Imagem de balde com pouco do produto, e outro balde com uma proporção pesadatitle"},
-                    {"title": "LIMPEZA MÉDIA ATÉ", "water": "06", "proportion": "166ml/L", "img": "public/assets/dilution/medium.png", "alt": "Imagem de balde com pouco do produto, e outro balde com uma proporção média"},
-                    {"title":"LIMPEZA LEVE ATÉ", "water": "10", "proportion": "100ml/L", "img": "public/assets/dilution/light.png", "alt": "Imagem de balde com pouco do produto, e outro balde com uma proporção leve"}
+                    {"title":"LIMPEZA PESADA ATÉ", "water": "04", "proportion": "250ml/L", "img": "./assets/dilution/heavy.png", "alt": "Imagem de balde com pouco do produto, e outro balde com uma proporção pesadatitle"},
+                    {"title": "LIMPEZA MÉDIA ATÉ", "water": "06", "proportion": "166ml/L", "img": "./assets/dilution/medium.png", "alt": "Imagem de balde com pouco do produto, e outro balde com uma proporção média"},
+                    {"title":"LIMPEZA LEVE ATÉ", "water": "10", "proportion": "100ml/L", "img": "./assets/dilution/light.png", "alt": "Imagem de balde com pouco do produto, e outro balde com uma proporção leve"}
                 ],
                 "description": [
                     "Embalagem: 1 garrafão de 5 litros",
@@ -75,7 +75,7 @@
                     "Produto registrado na ANVISA"
                 ],
                 "precautions": {
-                    "image": "public/assets/luva.png",
+                    "image": "./assets/luva.png",
                     "alt": "imagem de mãos usando luvas azuis",
                     "safety": "Para sua segurança, é necessário o uso de EPI's para manusear o produto. Por se tratar de um produto à base de ácido, recomendamos uso de luvas de proteção, botas ou sapatos fechados, óculos e máscara. Lave as mãos cuidadosamente após o manuseio. Em caso de contato com a pele ou olhos lave cuidadosamente com água corrente durante vários minutos.",
                     "icons": [
